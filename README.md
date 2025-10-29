@@ -1,7 +1,7 @@
 
-👋 Hey there! I'm Jayasri Jonnalagadda 
+👋 Hey there! I'm **Jayasri Jonnalagadda**
 
--- 🔭 I’m currently working on **AI/ML projects** involving **Large Language Models (LLMs)**, **backend optimization**, and **multi-agent systems** at IAAIIC as an AIML Intern.  
+- 🔭 I’m currently working on **AI/ML projects** involving **Large Language Models (LLMs)**, **backend optimization**, and **multi-agent systems** at IAAIIC as an AIML Intern.  
 - 🌱 I’m currently learning **Cloud-Native AI**, **MLOps**, and **Advanced Prompt Engineering** to build scalable and intelligent systems.  
 - 👯 I’m looking to collaborate on **AI-driven applications**, **backend systems**, and **open-source projects** that merge intelligence with real-world problem-solving.  
 - 🤔 I’m looking for help with **enhancing LLM performance** and exploring **autonomous agent orchestration**.  
@@ -30,6 +30,17 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaya-sri6&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaya-sri6&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jaya-sri6&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaya-sri6&limit=5&theme=dark&combine_all_yearly_contributions=true)
