@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **AI-driven applications**, **backend systems**, and **open-source projects** that merge intelligence with real-world problem-solving.  
 - 🤔 I’m looking for help with **enhancing LLM performance** and exploring **autonomous agent orchestration**.  
 - 💬 Ask me about **Python**, **FastAPI**, **Node.js**, **LangChain**, **Machine Learning**, or **System Design**.  
-- 📫 How to reach me: **jayasriijonnalagadda@gmail.com** | [LinkedIn](https://www.linkedin.com/in/jayasri-jonnalagadda-5b86a2379/) | [Portfolio](https://busy-use-816936.framer.app/)  
+- 📫 How to reach me: **jayasriijonnalagadda@gmail.com** | [LinkedIn](https://www.linkedin.com/in/jayasri-jonnalagadda-5b86a2379/) | [🌐 Portfolio](https://busy-use-816936.framer.app/)  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: I love debugging complex systems — the deeper the issue, the more exciting the challenge!  
 
@@ -16,7 +16,6 @@
 **Languages & Tools:**  
 `Python` • `TypeScript` • `Node.js` • `FastAPI` • `TensorFlow` • `Redis` • `Docker` • `Kubernetes`
 
-🌐 [Portfolio](https://busy-use-816936.framer.app/)  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayasri-jonnalagadda-5b86a2379/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayasriijonnalagadda@gmail.com) 
