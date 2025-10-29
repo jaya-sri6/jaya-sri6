@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **jaya-sri6/jaya-sri6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -- 🔭 I’m currently working on **AI/ML projects** involving **Large Language Models (LLMs)**, **backend optimization**, and **multi-agent systems** at IAAIIC as an AIML Intern.  
