@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **AI-driven applications**, **backend systems**, and **open-source projects** that merge intelligence with real-world problem-solving.  
 - 🤔 I’m looking for help with **enhancing LLM performance** and exploring **autonomous agent orchestration**.  
 - 💬 Ask me about **Python**, **FastAPI**, **Node.js**, **LangChain**, **Machine Learning**, or **System Design**.  
-- 📫 How to reach me: **jayasriijonnalagadda@gmail.com** | [LinkedIn](https://www.linkedin.com/in/jayasri-jonnalagadda-5b86a2379/) | [🌐 Portfolio](https://jayasri-portfolio-icig.vercel.app/)  
+- 📫 How to reach me: **jayasriijonnalagadda@gmail.com** | [LinkedIn](https://www.linkedin.com/in/jayasri-jonnalagadda-5b86a2379/) | [🌐 Portfolio](https://jayasri-jonnalagadda-portfoilo-beta.vercel.app/)  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: I love debugging complex systems — the deeper the issue, the more exciting the challenge!  
 
