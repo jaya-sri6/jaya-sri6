@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="1200" height="680" role="img" aria-labelledby="work-title work-desc">
-  <title id="work-title">Selected work</title>
-  <desc id="work-desc">Six project titles supplied by Jayasri, presented as an editorial gallery without invented project metrics.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" role="img" aria-labelledby="work-title work-desc">
+  <title id="work-title">Selected projects</title>
+  <desc id="work-desc">Six projects: Autonomous Delivery Resolution Agent, DualMind AI, Echo, TeamBridge MCP, Agentic Workflow Automation System, and LLM RAG Document Processing System. The delivery agent achieved about 87 percent successful resolution across more than 150 simulated incidents.</desc>
   <defs>
     <linearGradient id="work-bg" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#190B12"/>
@@ -11,92 +11,110 @@
       <stop offset=".6" stop-color="#C77B9B"/>
       <stop offset="1" stop-color="#701A3D" stop-opacity=".15"/>
     </linearGradient>
+    <linearGradient id="work-metric" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#C77B9B"/>
+    </linearGradient>
     <pattern id="work-grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M24 0H0V24" fill="none" stroke="#E5B5C7" stroke-opacity=".035"/>
     </pattern>
   </defs>
-  <rect width="1200" height="680" rx="18" fill="url(#work-bg)"/>
-  <rect width="1200" height="680" rx="18" fill="url(#work-grid)"/>
+  <rect width="1200" height="700" rx="18" fill="url(#work-bg)"/>
+  <rect width="1200" height="700" rx="18" fill="url(#work-grid)"/>
 
   <g>
-    <rect x="24" y="24" width="368" height="300" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
-    <text x="49" y="59" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">01  /  AGENTIC RAG</text>
-    <circle cx="318" cy="132" r="40" fill="none" stroke="#701A3D" stroke-width="1.5"/>
-    <circle cx="318" cy="132" r="25" fill="none" stroke="#C77B9B" stroke-opacity=".68"/>
-    <circle cx="318" cy="132" r="5" fill="#E5B5C7"/>
-    <path d="M278 132h-31m111 0h-32M318 92V76m0 112v-16" stroke="#C77B9B" stroke-opacity=".5"/>
-    <path d="M297 111l42 42m0-42l-42 42" stroke="#701A3D" stroke-opacity=".6"/>
-    <text x="49" y="230" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="23">Enterprise Knowledge</text>
-    <text x="49" y="260" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', serif" font-size="23">Agent</text>
-    <text x="49" y="297" fill="#8F7180" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.5">AGENTIC RAG</text>
+    <rect x="24" y="24" width="368" height="310" rx="15" fill="#10070C" stroke="#C77B9B" stroke-opacity=".72"/>
+    <text x="49" y="58" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">01  /  PYTHON · LANGGRAPH · MCP · n8n</text>
+    <path d="M49 76H367" stroke="url(#work-line)"/>
+    <text x="49" y="128" fill="url(#work-metric)" font-family="Georgia, 'Times New Roman', serif" font-size="49">~87%</text>
+    <text x="196" y="115" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="12">SUCCESSFUL</text>
+    <text x="196" y="135" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="12">RESOLUTION</text>
+    <text x="49" y="167" fill="#BCA7B0" font-family="Arial, Helvetica, sans-serif" font-size="12">Across 150+ simulated delivery incidents</text>
+    <text x="49" y="214" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="21">Autonomous Delivery</text>
+    <text x="49" y="243" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', serif" font-size="22">Resolution Agent</text>
+    <text x="49" y="286" fill="#A98C99" font-family="Arial, Helvetica, sans-serif" font-size="11">Multi-agent incident resolution for last-mile delivery.</text>
+    <text x="49" y="312" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1">LANGGRAPH  ·  MCP  ·  n8n</text>
   </g>
 
   <g>
-    <rect x="416" y="24" width="368" height="300" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
-    <text x="441" y="59" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">02  /  AUTONOMOUS AGENTS</text>
-    <path d="M481 126h63m53 0h63m-126 0v46m63-46v46" fill="none" stroke="#C77B9B" stroke-opacity=".62"/>
-    <rect x="465" y="107" width="32" height="38" rx="7" fill="#451126" stroke="#C77B9B"/>
-    <rect x="528" y="107" width="32" height="38" rx="7" fill="#451126" stroke="#C77B9B"/>
-    <rect x="591" y="107" width="32" height="38" rx="7" fill="#451126" stroke="#C77B9B"/>
-    <rect x="654" y="107" width="32" height="38" rx="7" fill="#451126" stroke="#C77B9B"/>
-    <circle cx="481" cy="126" r="3" fill="#E5B5C7"/>
-    <circle cx="544" cy="126" r="3" fill="#E5B5C7"/>
-    <circle cx="607" cy="126" r="3" fill="#E5B5C7"/>
-    <circle cx="670" cy="126" r="3" fill="#E5B5C7"/>
-    <path d="M560 172h62m-62 0l-18 17m18-17l18 17" stroke="#701A3D"/>
-    <text x="441" y="230" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="22">Autonomous Delivery</text>
-    <text x="441" y="260" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', serif" font-size="23">Resolution Agent</text>
-    <text x="441" y="297" fill="#8F7180" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.5">MULTI-AGENT SYSTEM</text>
+    <rect x="416" y="24" width="368" height="310" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
+    <text x="441" y="58" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">02  /  PYTHON · AI EVALUATION</text>
+    <path d="M441 76H759" stroke="url(#work-line)"/>
+    <circle cx="588" cy="135" r="37" fill="none" stroke="#701A3D"/>
+    <circle cx="588" cy="135" r="24" fill="none" stroke="#C77B9B" stroke-opacity=".74"/>
+    <path d="M588 95v80m-40-40h80M560 107l56 56m0-56l-56 56" stroke="#451126"/>
+    <circle cx="576" cy="126" r="5" fill="#C77B9B"/>
+    <circle cx="600" cy="126" r="5" fill="#E5B5C7"/>
+    <path d="M575 145q13 11 26 0" fill="none" stroke="#C77B9B"/>
+    <text x="441" y="214" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="26">DualMind AI</text>
+    <text x="441" y="247" fill="#BCA7B0" font-family="Arial, Helvetica, sans-serif" font-size="12">AI assistant comparison and evaluation platform.</text>
+    <text x="441" y="286" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1">COMPARE  ·  EVALUATE  ·  INSPECT</text>
   </g>
 
   <g>
-    <rect x="808" y="24" width="368" height="300" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
-    <text x="833" y="59" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">03  /  MULTIMODAL AI</text>
-    <path d="M886 89h99a12 12 0 0 1 12 12v83a12 12 0 0 1-12 12h-99a12 12 0 0 1-12-12v-83a12 12 0 0 1 12-12z" fill="#190B12" stroke="#701A3D"/>
-    <path d="M891 111h75m-75 14h56m-56 15h67m-67 15h38" stroke="#C77B9B" stroke-opacity=".7" stroke-width="3"/>
-    <path d="M996 126h38m-38 20h28m-28 20h34" stroke="#E5B5C7" stroke-opacity=".7"/>
-    <path d="M1026 126l9-6m-9 26l9 6m-9 14l9-6" stroke="#701A3D"/>
-    <text x="833" y="230" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="22">Multimodal Document</text>
-    <text x="833" y="260" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', serif" font-size="23">Intelligence Agent</text>
-    <text x="833" y="297" fill="#8F7180" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.5">DOCUMENT INTELLIGENCE</text>
+    <rect x="808" y="24" width="368" height="310" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
+    <text x="833" y="58" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">03  /  PYTHON · HINDSIGHT</text>
+    <path d="M833 76H1151" stroke="url(#work-line)"/>
+    <circle cx="992" cy="135" r="49" fill="none" stroke="#451126"/>
+    <circle cx="992" cy="135" r="33" fill="none" stroke="#701A3D"/>
+    <circle cx="992" cy="135" r="15" fill="#451126" stroke="#C77B9B"/>
+    <g fill="#E5B5C7">
+      <circle cx="992" cy="86" r="4"/>
+      <circle cx="1038" cy="118" r="4"/>
+      <circle cx="1020" cy="174" r="4"/>
+      <circle cx="964" cy="174" r="4"/>
+      <circle cx="946" cy="118" r="4"/>
+    </g>
+    <path d="M992 96v24m34 4l-22 8m10 29l-14-19m-26 19l14-19m-24-18l22 8" stroke="#C77B9B" stroke-opacity=".7"/>
+    <text x="833" y="214" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="29">Echo</text>
+    <text x="833" y="247" fill="#BCA7B0" font-family="Arial, Helvetica, sans-serif" font-size="12">Agent-memory project built around Hindsight.</text>
+    <text x="833" y="286" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1">ORGANIZATIONAL EXPERIENCE MEMORY</text>
   </g>
 
   <g>
-    <rect x="24" y="344" width="368" height="300" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
-    <text x="49" y="379" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">04  /  MOBILE EXPERIENCE</text>
-    <rect x="278" y="402" width="55" height="92" rx="10" fill="#190B12" stroke="#C77B9B"/>
-    <rect x="286" y="414" width="39" height="57" rx="4" fill="#451126"/>
-    <path d="M292 425h27m-27 9h18m-18 9h23m-23 15h16" stroke="#E5B5C7" stroke-opacity=".72" stroke-width="2"/>
-    <circle cx="305" cy="483" r="3" fill="#C77B9B"/>
-    <text x="49" y="524" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="22">Cross-Platform Food</text>
-    <text x="49" y="554" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', serif" font-size="23">Ordering Application</text>
-    <text x="49" y="607" fill="#8F7180" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.5">CROSS-PLATFORM APPLICATION</text>
+    <rect x="24" y="358" width="368" height="310" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
+    <text x="49" y="392" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">04  /  TYPESCRIPT · MCP</text>
+    <path d="M49 410H367" stroke="url(#work-line)"/>
+    <rect x="119" y="445" width="178" height="73" rx="13" fill="#190B12" stroke="#701A3D"/>
+    <rect x="141" y="463" width="38" height="37" rx="7" fill="#451126" stroke="#C77B9B"/>
+    <rect x="198" y="463" width="38" height="37" rx="7" fill="#451126" stroke="#C77B9B"/>
+    <rect x="255" y="463" width="22" height="37" rx="6" fill="#451126" stroke="#C77B9B"/>
+    <path d="M179 481h19m38 0h19" stroke="#E5B5C7"/>
+    <circle cx="160" cy="481" r="4" fill="#E5B5C7"/>
+    <circle cx="217" cy="481" r="4" fill="#E5B5C7"/>
+    <text x="49" y="565" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="25">TeamBridge MCP</text>
+    <text x="49" y="598" fill="#BCA7B0" font-family="Arial, Helvetica, sans-serif" font-size="12">A project built around the Model Context Protocol.</text>
+    <text x="49" y="640" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1">TYPESCRIPT  ·  MCP</text>
   </g>
 
   <g>
-    <rect x="416" y="344" width="368" height="300" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
-    <text x="441" y="379" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">05  /  COMPONENTS</text>
-    <rect x="480" y="403" width="188" height="82" rx="12" fill="#190B12" stroke="#701A3D"/>
-    <rect x="496" y="420" width="54" height="44" rx="8" fill="#451126" stroke="#C77B9B" stroke-opacity=".8"/>
-    <rect x="558" y="420" width="92" height="12" rx="6" fill="#701A3D"/>
-    <rect x="558" y="440" width="72" height="8" rx="4" fill="#C77B9B" opacity=".55"/>
-    <rect x="558" y="455" width="82" height="8" rx="4" fill="#C77B9B" opacity=".3"/>
-    <text x="441" y="524" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="23">Reusable Mobile</text>
-    <text x="441" y="554" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', serif" font-size="23">Component Library</text>
-    <text x="441" y="607" fill="#8F7180" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.5">MOBILE COMPONENTS</text>
+    <rect x="416" y="358" width="368" height="310" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
+    <text x="441" y="392" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">05  /  PYTHON · WORKFLOWS</text>
+    <path d="M441 410H759" stroke="url(#work-line)"/>
+    <rect x="488" y="440" width="95" height="38" rx="8" fill="#451126" stroke="#C77B9B"/>
+    <rect x="616" y="440" width="95" height="38" rx="8" fill="#451126" stroke="#C77B9B"/>
+    <rect x="552" y="500" width="95" height="38" rx="8" fill="#451126" stroke="#C77B9B"/>
+    <text x="535" y="464" text-anchor="middle" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="11">TRIGGER</text>
+    <text x="663" y="464" text-anchor="middle" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="11">WORKFLOW</text>
+    <text x="599" y="524" text-anchor="middle" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="11">ACTION</text>
+    <path d="M583 459h33m-17 0v41m0 0h-48m48 0h48" fill="none" stroke="#C77B9B" stroke-opacity=".74"/>
+    <text x="441" y="565" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="22">Agentic Workflow</text>
+    <text x="441" y="594" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', serif" font-size="22">Automation System</text>
+    <text x="441" y="640" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1">PYTHON  ·  WORKFLOW ORCHESTRATION</text>
   </g>
 
   <g>
-    <rect x="808" y="344" width="368" height="300" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
-    <text x="833" y="379" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">06  /  DISCOVERY</text>
-    <circle cx="985" cy="445" r="56" fill="#190B12" stroke="#701A3D"/>
-    <circle cx="985" cy="445" r="38" fill="none" stroke="#C77B9B" stroke-opacity=".62"/>
-    <circle cx="985" cy="445" r="19" fill="none" stroke="#701A3D"/>
-    <path d="M1023 483l24 24" stroke="#E5B5C7" stroke-width="8" stroke-linecap="round"/>
-    <circle cx="1000" cy="429" r="4" fill="#E5B5C7"/>
-    <circle cx="968" cy="453" r="3" fill="#C77B9B"/>
-    <text x="833" y="524" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="22">High-Performance</text>
-    <text x="833" y="554" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', serif" font-size="23">Restaurant Discovery App</text>
-    <text x="833" y="607" fill="#8F7180" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.5">RESTAURANT DISCOVERY</text>
+    <rect x="808" y="358" width="368" height="310" rx="15" fill="#10070C" stroke="#701A3D" stroke-opacity=".65"/>
+    <text x="833" y="392" fill="#C77B9B" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">06  /  PYTHON · RAG</text>
+    <path d="M833 410H1151" stroke="url(#work-line)"/>
+    <rect x="885" y="436" width="100" height="104" rx="9" fill="#190B12" stroke="#701A3D"/>
+    <path d="M900 456h69m-69 14h58m-58 14h65m-65 14h42" stroke="#C77B9B" stroke-opacity=".68" stroke-width="3"/>
+    <circle cx="1041" cy="480" r="35" fill="#451126" stroke="#C77B9B"/>
+    <circle cx="1041" cy="480" r="19" fill="none" stroke="#E5B5C7" stroke-opacity=".76"/>
+    <path d="M1067 506l22 22" stroke="#E5B5C7" stroke-width="7" stroke-linecap="round"/>
+    <path d="M986 482h18" stroke="#C77B9B"/>
+    <text x="833" y="565" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="22">LLM RAG Document</text>
+    <text x="833" y="594" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', serif" font-size="22">Processing System</text>
+    <text x="833" y="640" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1">PYTHON  ·  RETRIEVAL-AUGMENTED GENERATION</text>
   </g>
 </svg>

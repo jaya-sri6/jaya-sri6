@@ -17,12 +17,18 @@ AI/ML Engineer working across agentic AI and full-stack development. I enjoy unt
 
 <img src="assets/jayasri-projects.svg" width="100%" alt="03 — Selected work. Ideas into systems.">
 
-<img src="assets/jayasri-project-gallery.svg" width="100%" alt="Six selected projects: Enterprise Knowledge Agent, Autonomous Delivery Resolution Agent, Multimodal Document Intelligence Agent, Cross-Platform Food Ordering Application, Reusable Mobile Component Library, and High-Performance Restaurant Discovery App.">
+<img src="assets/jayasri-project-gallery.svg" width="100%" alt="Six projects: Autonomous Delivery Resolution Agent, with about 87 percent successful resolution across more than 150 simulated incidents; DualMind AI, an assistant comparison platform; Echo, a Hindsight-powered agent memory project; TeamBridge MCP; Agentic Workflow Automation System; and LLM RAG Document Processing System.">
 
-<p align="center">
-  <a href="https://github.com/jaya-sri6/Autonomous-Delivery-Resolution-Agent"><img src="https://img.shields.io/badge/REPOSITORY-Autonomous_Delivery_Resolution_Agent-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=E5B5C7" alt="Autonomous Delivery Resolution Agent repository"></a>
-</p>
-<p align="center"><sub>Only the project repository verified as an exact match is linked. Project cards contain no invented performance metrics.</sub></p>
+| Project | Focus |
+|:--|:--|
+| [Autonomous Delivery Resolution Agent](https://github.com/jaya-sri6/Autonomous-Delivery-Resolution-Agent) | Python · LangGraph · MCP · n8n · ~87% successful resolution across 150+ simulated incidents |
+| [DualMind AI](https://github.com/jaya-sri6/DualMind-AI) | Python · AI assistant comparison and evaluation |
+| [Echo](https://github.com/jaya-sri6/Echo) | Python · Agent memory built around Hindsight |
+| [TeamBridge MCP](https://github.com/jaya-sri6/TeamBridge-MCP) | TypeScript · MCP-based project |
+| [Agentic Workflow Automation System](https://github.com/jaya-sri6/Agentic-Workflow-Automation-System) | Python · Agentic workflow automation |
+| [LLM RAG Document Processing System](https://github.com/jaya-sri6/LLM-RAG-Based-Document-Processing-System) | Python · LLM-powered retrieval-augmented document processing |
+
+<sub>Additional selected work: Enterprise Knowledge Agent (Agentic RAG) · Multimodal Document Intelligence Agent · Cross-Platform Food Ordering Application · Reusable Mobile Component Library · High-Performance Restaurant Discovery App</sub>
 
 <img src="assets/jayasri-toolkit.svg" width="100%" alt="04 — Toolkit. The tools I reach for.">
 
