@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="440" viewBox="0 0 560 440" role="img" aria-labelledby="title desc">
   <title id="title">Autonomous Delivery Resolution Agent</title>
   <desc id="desc">Python, LangGraph, MCP, and n8n multi-agent workflow. About 87 percent successful resolution across 150 plus simulated incidents.</desc>
   <defs>
     <linearGradient id="delivery-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
     <linearGradient id="delivery-line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#701A3D"/><stop offset=".55" stop-color="#C77B9B"/><stop offset="1" stop-color="#701A3D" stop-opacity=".12"/></linearGradient>
   </defs>
-  <rect width="560" height="360" rx="16" fill="url(#delivery-bg)" stroke="#701A3D"/>
+  <rect width="560" height="440" rx="16" fill="url(#delivery-bg)" stroke="#701A3D"/>
   <text x="26" y="34" fill="#C77B9B" font-family="Consolas, monospace" font-size="10" letter-spacing="1.5">01 / PYTHON · LANGGRAPH · MCP · n8n</text>
   <path d="M26 47H534" stroke="url(#delivery-line)"/>
   <text x="28" y="111" fill="#E5B5C7" font-family="Georgia, serif" font-size="42">~87%</text>
@@ -31,5 +31,31 @@
     <text x="85" y="339">LANGGRAPH</text>
     <text x="206" y="339">MCP</text>
     <text x="327" y="339">n8n</text>
+  </g>
+  <g fill="none" stroke="#701A3D" stroke-opacity=".45">
+    <path d="M29 380H531"/>
+    <circle cx="44" cy="410" r="7"/>
+    <circle cx="76" cy="410" r="7"/>
+    <circle cx="108" cy="410" r="7"/>
+    <circle cx="140" cy="410" r="7"/>
+    <circle cx="172" cy="410" r="7"/>
+    <circle cx="204" cy="410" r="7"/>
+    <circle cx="236" cy="410" r="7"/>
+    <circle cx="268" cy="410" r="7"/>
+    <circle cx="300" cy="410" r="7"/>
+    <circle cx="332" cy="410" r="7"/>
+    <circle cx="364" cy="410" r="7"/>
+    <circle cx="396" cy="410" r="7"/>
+    <circle cx="428" cy="410" r="7"/>
+    <circle cx="460" cy="410" r="7"/>
+    <circle cx="492" cy="410" r="7"/>
+    <circle cx="524" cy="410" r="7"/>
+  </g>
+  <g fill="#C77B9B" opacity=".7">
+    <circle cx="44" cy="410" r="3"/><circle cx="108" cy="410" r="3"/>
+    <circle cx="140" cy="410" r="3"/><circle cx="236" cy="410" r="3"/>
+    <circle cx="268" cy="410" r="3"/><circle cx="332" cy="410" r="3"/>
+    <circle cx="396" cy="410" r="3"/><circle cx="460" cy="410" r="3"/>
+    <circle cx="524" cy="410" r="3"/>
   </g>
 </svg>

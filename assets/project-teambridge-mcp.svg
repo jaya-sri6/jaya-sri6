@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="440" viewBox="0 0 560 440" role="img" aria-labelledby="title desc">
   <title id="title">TeamBridge MCP</title>
   <desc id="desc">TypeScript MCP-based project.</desc>
   <defs>
     <linearGradient id="bridge-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
     <linearGradient id="bridge-line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#701A3D"/><stop offset=".55" stop-color="#C77B9B"/><stop offset="1" stop-color="#701A3D" stop-opacity=".12"/></linearGradient>
   </defs>
-  <rect width="560" height="360" rx="16" fill="url(#bridge-bg)" stroke="#701A3D"/>
+  <rect width="560" height="440" rx="16" fill="url(#bridge-bg)" stroke="#701A3D"/>
   <text x="26" y="34" fill="#C77B9B" font-family="Consolas, monospace" font-size="10" letter-spacing="1.5">04 / TYPESCRIPT · MCP</text>
   <path d="M26 47H534" stroke="url(#bridge-line)"/>
   <g transform="translate(375 72)" fill="#451126" stroke="#C77B9B">
@@ -28,4 +28,7 @@
     <text x="92" y="334">TYPESCRIPT</text>
     <text x="227" y="334">MCP</text>
   </g>
+  <path d="M29 373H531" stroke="#451126"/>
+  <text x="29" y="402" fill="#C77B9B" font-family="Arial, sans-serif" font-size="10" letter-spacing="1.3">BRIDGE SERVICES, AGENTS, AND CONTEXT</text>
+  <text x="29" y="423" fill="#A98C99" font-family="Arial, sans-serif" font-size="10">An MCP-centered connection between tools and systems.</text>
 </svg>
