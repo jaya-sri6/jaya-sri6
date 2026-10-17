@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 610" width="1200" height="610" role="img" aria-labelledby="skills-title skills-desc">
+  <title id="skills-title">Technical toolkit</title>
+  <desc id="skills-desc">Technologies grouped into nine categories exactly as supplied by Jayasri.</desc>
+  <defs>
+    <linearGradient id="skills-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#190B12"/>
+      <stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="skills-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#701A3D"/>
+      <stop offset=".52" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity=".16"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="610" rx="18" fill="url(#skills-bg)"/>
+
+  <g transform="translate(22 22)">
+    <rect width="372" height="176" rx="13" fill="#10070C" stroke="#451126"/>
+    <text x="22" y="34" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">01 / LANGUAGES</text>
+    <path d="M22 48H350" stroke="url(#skills-rule)"/>
+    <text x="22" y="80" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="20">Python · Java · JavaScript</text>
+    <text x="22" y="108" fill="#E5B5C7" font-family="Georgia, 'Times New Roman', serif" font-size="18">TypeScript · SQL</text>
+  </g>
+  <g transform="translate(414 22)">
+    <rect width="372" height="176" rx="13" fill="#10070C" stroke="#451126"/>
+    <text x="22" y="34" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">02 / GENERATIVE AI &amp; AGENTS</text>
+    <path d="M22 48H350" stroke="url(#skills-rule)"/>
+    <text x="22" y="76" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">LLMs · Agentic AI · Multi-Agent Systems</text>
+    <text x="22" y="99" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="13">Google ADK · Gemini · OpenAI APIs</text>
+    <text x="22" y="122" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">LangChain · LangGraph · MCP · RAG</text>
+    <text x="22" y="145" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="13">Prompt Engineering · Tool Calling</text>
+  </g>
+  <g transform="translate(806 22)">
+    <rect width="372" height="176" rx="13" fill="#10070C" stroke="#451126"/>
+    <text x="22" y="34" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">03 / AI &amp; MACHINE LEARNING</text>
+    <path d="M22 48H350" stroke="url(#skills-rule)"/>
+    <text x="22" y="80" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">NLP · Deep Learning · Computer Vision</text>
+    <text x="22" y="105" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="13">Transformers · Sentence-BERT · YOLO</text>
+    <text x="22" y="130" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">TensorFlow · PyTorch</text>
+  </g>
+
+  <g transform="translate(22 216)">
+    <rect width="372" height="176" rx="13" fill="#10070C" stroke="#451126"/>
+    <text x="22" y="34" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">04 / WORKFLOW &amp; EVALUATION</text>
+    <path d="M22 48H350" stroke="url(#skills-rule)"/>
+    <text x="22" y="80" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">n8n · Agent Orchestration</text>
+    <text x="22" y="105" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="13">Agent Evaluation · Semantic Search</text>
+    <text x="22" y="130" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">Embeddings · Reranking</text>
+  </g>
+  <g transform="translate(414 216)">
+    <rect width="372" height="176" rx="13" fill="#10070C" stroke="#451126"/>
+    <text x="22" y="34" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">05 / BACKEND &amp; APIs</text>
+    <path d="M22 48H350" stroke="url(#skills-rule)"/>
+    <text x="22" y="80" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">FastAPI · Spring Boot · Node.js</text>
+    <text x="22" y="105" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="13">Express.js · REST APIs · WebSocket</text>
+    <text x="22" y="130" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">Microservices</text>
+  </g>
+  <g transform="translate(806 216)">
+    <rect width="372" height="176" rx="13" fill="#10070C" stroke="#451126"/>
+    <text x="22" y="34" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">06 / FRONTEND &amp; MOBILE</text>
+    <path d="M22 48H350" stroke="url(#skills-rule)"/>
+    <text x="22" y="80" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">React.js · React Native · Redux</text>
+    <text x="22" y="105" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="13">Redux Saga · Zustand · Storybook</text>
+  </g>
+
+  <g transform="translate(22 410)">
+    <rect width="372" height="176" rx="13" fill="#10070C" stroke="#451126"/>
+    <text x="22" y="34" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">07 / DATA &amp; DATABASES</text>
+    <path d="M22 48H350" stroke="url(#skills-rule)"/>
+    <text x="22" y="80" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">Qdrant · FAISS · Redis</text>
+    <text x="22" y="105" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="13">PostgreSQL · MongoDB · SQLite</text>
+  </g>
+  <g transform="translate(414 410)">
+    <rect width="372" height="176" rx="13" fill="#10070C" stroke="#451126"/>
+    <text x="22" y="34" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">08 / CLOUD &amp; DEVOPS</text>
+    <path d="M22 48H350" stroke="url(#skills-rule)"/>
+    <text x="22" y="80" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">AWS · Docker · Kubernetes</text>
+    <text x="22" y="105" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="13">Terraform · Helm · ArgoCD</text>
+    <text x="22" y="130" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">Git · CI/CD</text>
+  </g>
+  <g transform="translate(806 410)">
+    <rect width="372" height="176" rx="13" fill="#10070C" stroke="#451126"/>
+    <text x="22" y="34" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">09 / OBSERVABILITY &amp; TESTING</text>
+    <path d="M22 48H350" stroke="url(#skills-rule)"/>
+    <text x="22" y="80" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">Prometheus · Grafana</text>
+    <text x="22" y="105" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="13">OpenTelemetry · Jest</text>
+    <text x="22" y="130" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="13">React Native Testing Library</text>
+  </g>
+</svg>

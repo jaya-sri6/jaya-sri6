@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 465" width="1200" height="465" role="img" aria-labelledby="profile-title profile-desc">
+  <title id="profile-title">Jayasri's profile and experience</title>
+  <desc id="profile-desc">Education at SRM Institute of Science and Technology and three verified internship entries from Jayasri's public portfolio.</desc>
+  <defs>
+    <linearGradient id="profile-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#190B12"/>
+      <stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="profile-rule" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#701A3D"/>
+      <stop offset=".55" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity=".12"/>
+    </linearGradient>
+    <pattern id="profile-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#E5B5C7" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="465" rx="18" fill="url(#profile-bg)"/>
+  <rect width="1200" height="465" rx="18" fill="url(#profile-grid)"/>
+
+  <rect x="34" y="32" width="712" height="401" rx="14" fill="#10070C" stroke="#701A3D" stroke-opacity=".64"/>
+  <path d="M48 82H732" stroke="#451126"/>
+  <circle cx="57" cy="57" r="4" fill="#701A3D"/>
+  <circle cx="72" cy="57" r="4" fill="#C77B9B" opacity=".74"/>
+  <circle cx="87" cy="57" r="4" fill="#E5B5C7" opacity=".52"/>
+  <text x="389" y="61" text-anchor="middle" fill="#8F7180" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">jayasri@profile: ~</text>
+
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="61" y="120" fill="#C77B9B" font-size="13">$ whoami</text>
+    <text x="61" y="147" fill="#F8F0F3" font-size="16">Jayasri Jonnalagadda</text>
+    <text x="61" y="169" fill="#BCA7B0" font-size="12">AI/ML Engineer  ·  Agentic AI  ·  Full-Stack Developer</text>
+
+    <text x="61" y="211" fill="#C77B9B" font-size="13">$ education --current</text>
+    <text x="61" y="237" fill="#F8F0F3" font-size="13">B.Tech, Computer Science &amp; Engineering (AI/ML Major)</text>
+    <text x="61" y="258" fill="#BCA7B0" font-size="12">SRM Institute of Science and Technology</text>
+    <text x="61" y="279" fill="#8F7180" font-size="11">June 2022 — May 2026</text>
+
+    <text x="61" y="321" fill="#C77B9B" font-size="13">$ experience --selected</text>
+    <text x="61" y="347" fill="#F8F0F3" font-size="12">IAAIIC     / AI/ML Engineering Intern</text>
+    <text x="61" y="373" fill="#F8F0F3" font-size="12">Opportive  / Full Stack Development   / Jul 2025 — Aug 2025</text>
+    <text x="61" y="399" fill="#F8F0F3" font-size="12">Plasmid    / AI / Backend Intern      / Apr 2024 — Jun 2024</text>
+    <circle cx="63" cy="419" r="3" fill="#E5B5C7">
+      <animate attributeName="opacity" values="1;.18;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g>
+    <rect x="778" y="32" width="388" height="119" rx="14" fill="#190B12" stroke="#451126"/>
+    <text x="801" y="61" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">01 / INTELLIGENCE</text>
+    <text x="801" y="95" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="24">Agentic systems</text>
+    <text x="801" y="123" fill="#BCA7B0" font-family="Arial, Helvetica, sans-serif" font-size="12">RAG · multi-agent workflows · LLM applications</text>
+
+    <rect x="778" y="173" width="388" height="119" rx="14" fill="#190B12" stroke="#451126"/>
+    <text x="801" y="202" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">02 / ENGINEERING</text>
+    <text x="801" y="236" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="24">Full-stack craft</text>
+    <text x="801" y="264" fill="#BCA7B0" font-family="Arial, Helvetica, sans-serif" font-size="12">APIs · mobile experiences · reliable systems</text>
+
+    <rect x="778" y="314" width="388" height="119" rx="14" fill="#190B12" stroke="#451126"/>
+    <text x="801" y="343" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">03 / PRINCIPLE</text>
+    <text x="801" y="377" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="24">Build with intent</text>
+    <text x="801" y="405" fill="#BCA7B0" font-family="Arial, Helvetica, sans-serif" font-size="12">Thoughtful software, useful intelligence.</text>
+  </g>
+</svg>
