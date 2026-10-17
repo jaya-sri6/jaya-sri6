@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="jayaHero-title jayaHero-desc">
+  <title id="jayaHero-title">Jayasri Jonnalagadda</title>
+  <desc id="jayaHero-desc">AI/ML Engineer, Agentic AI, and Full-Stack Developer. A burgundy editorial hero with animated orbital geometry.</desc>
+  <defs>
+    <linearGradient id="jayaHero-background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.56" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="jayaHero-glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#701A3D"/>
+      <animate attributeName="x1" values="0;1;0" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="jayaHero-orbit" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E5B5C7" stop-opacity="0.08"/>
+      <stop offset="0.55" stop-color="#C77B9B" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0.08"/>
+    </linearGradient>
+    <pattern id="jayaHero-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#E5B5C7" stroke-opacity="0.075" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="jayaHero-aura">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="jayaHero-blur" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <mask id="jayaHero-grid-fade">
+      <rect width="1200" height="380" fill="url(#jayaHero-background)"/>
+      <ellipse cx="900" cy="190" rx="390" ry="260" fill="#fff"/>
+    </mask>
+  </defs>
+
+  <rect width="1200" height="380" rx="18" fill="url(#jayaHero-background)"/>
+  <rect width="1200" height="380" rx="18" fill="url(#jayaHero-grid)" mask="url(#jayaHero-grid-fade)"/>
+  <ellipse cx="920" cy="190" rx="390" ry="260" fill="url(#jayaHero-aura)"/>
+
+  <g fill="none" stroke="url(#jayaHero-orbit)">
+    <circle cx="930" cy="190" r="126" stroke-width="1"/>
+    <circle cx="930" cy="190" r="160" stroke-opacity="0.54" stroke-width="1" stroke-dasharray="2 9"/>
+    <ellipse cx="930" cy="190" rx="190" ry="74" transform="rotate(-30 930 190)" stroke-opacity="0.66" stroke-width="1"/>
+    <path d="M778 268c67-130 230-194 341-111" stroke-opacity="0.62" stroke-width="1"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 930 190" to="360 930 190" dur="32s" repeatCount="indefinite"/>
+    <circle cx="1056" cy="190" r="4" fill="#E5B5C7"/>
+  </g>
+  <circle cx="1090" cy="105" r="2.5" fill="#C77B9B" opacity="0.85"/>
+  <circle cx="806" cy="263" r="2" fill="#E5B5C7" opacity="0.75"/>
+  <circle cx="1037" cy="292" r="1.7" fill="#C77B9B" opacity="0.8"/>
+
+  <path d="M76 299H660" fill="none" stroke="#701A3D" stroke-width="5" opacity="0.55" filter="url(#jayaHero-blur)"/>
+  <path d="M76 299H660" fill="none" stroke="#701A3D" stroke-width="1"/>
+  <path d="M76 299H660" fill="none" stroke="url(#jayaHero-glow)" stroke-width="2" stroke-dasharray="92 492">
+    <animate attributeName="stroke-dashoffset" values="0;-584" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#F8F0F3">
+    <text x="78" y="73" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4" fill="#C77B9B">ENGINEERING INTELLIGENCE · BUILDING WITH INTENT</text>
+    <text x="72" y="169" font-size="67" letter-spacing="-2">Jayasri</text>
+    <text x="72" y="238" font-size="59" letter-spacing="-1">Jonnalagadda</text>
+  </g>
+  <text x="79" y="341" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.2" fill="#E5B5C7">AI/ML ENGINEER  /  AGENTIC AI  /  FULL-STACK DEVELOPER</text>
+
+  <g fill="#E5B5C7" opacity="0.75">
+    <circle cx="1110" cy="328" r="2"/>
+    <circle cx="1122" cy="328" r="2" opacity="0.55"/>
+    <circle cx="1134" cy="328" r="2" opacity="0.3"/>
+  </g>
+</svg>

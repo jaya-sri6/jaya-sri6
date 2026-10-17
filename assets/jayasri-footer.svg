@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="jayaFooter-title jayaFooter-desc">
+  <title id="jayaFooter-title">Build with intent</title>
+  <desc id="jayaFooter-desc">A minimal burgundy footer with a gently animated signal line.</desc>
+  <defs>
+    <linearGradient id="jayaFooter-background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.5" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="jayaFooter-signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="jayaFooter-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#E5B5C7" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="112" rx="14" fill="url(#jayaFooter-background)"/>
+  <rect width="1200" height="112" rx="14" fill="url(#jayaFooter-grid)"/>
+  <path d="M0 20H1200" stroke="#701A3D" stroke-opacity="0.5"/>
+  <path d="M60 20H1140" stroke="url(#jayaFooter-signal)" stroke-width="1.5" stroke-dasharray="110 970">
+    <animate attributeName="stroke-dashoffset" values="0;-1080" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <text x="62" y="69" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3" fill="#C77B9B">JAYASRI JONNALAGADDA</text>
+  <text x="1138" y="69" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#F8F0F3">Build with intent.</text>
+</svg>
