@@ -17,16 +17,20 @@ AI/ML Engineer working across agentic AI and full-stack development. I enjoy unt
 
 <img src="assets/jayasri-projects.svg" width="100%" alt="03 — Selected work. Ideas into systems.">
 
-<img src="assets/jayasri-project-gallery.svg" width="100%" alt="Six projects: Autonomous Delivery Resolution Agent, with about 87 percent successful resolution across more than 150 simulated incidents; DualMind AI, an assistant comparison platform; Echo, a Hindsight-powered agent memory project; TeamBridge MCP; Agentic Workflow Automation System; and LLM RAG Document Processing System.">
-
-| Project | Focus |
-|:--|:--|
-| [Autonomous Delivery Resolution Agent](https://github.com/jaya-sri6/Autonomous-Delivery-Resolution-Agent) | Python · LangGraph · MCP · n8n · ~87% successful resolution across 150+ simulated incidents |
-| [DualMind AI](https://github.com/jaya-sri6/DualMind-AI) | Python · AI assistant comparison and evaluation |
-| [Echo](https://github.com/jaya-sri6/Echo) | Python · Agent memory built around Hindsight |
-| [TeamBridge MCP](https://github.com/jaya-sri6/TeamBridge-MCP) | TypeScript · MCP-based project |
-| [Agentic Workflow Automation System](https://github.com/jaya-sri6/Agentic-Workflow-Automation-System) | Python · Agentic workflow automation |
-| [LLM RAG Document Processing System](https://github.com/jaya-sri6/LLM-RAG-Based-Document-Processing-System) | Python · LLM-powered retrieval-augmented document processing |
+<table width="100%">
+  <tr>
+    <td width="50%"><a href="https://github.com/jaya-sri6/Autonomous-Delivery-Resolution-Agent"><img src="assets/project-autonomous-delivery.svg" width="100%" alt="Autonomous Delivery Resolution Agent — about 87% successful resolution across 150+ simulated incidents. Open repository."></a></td>
+    <td width="50%"><a href="https://github.com/jaya-sri6/DualMind-AI"><img src="assets/project-dualmind.svg" width="100%" alt="DualMind AI — AI assistant comparison and evaluation platform. Open repository."></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/jaya-sri6/Echo"><img src="assets/project-echo.svg" width="100%" alt="Echo — Python agent-memory project built around Hindsight. Open repository."></a></td>
+    <td width="50%"><a href="https://github.com/jaya-sri6/TeamBridge-MCP"><img src="assets/project-teambridge-mcp.svg" width="100%" alt="TeamBridge MCP — TypeScript MCP-based project. Open repository."></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/jaya-sri6/Agentic-Workflow-Automation-System"><img src="assets/project-agentic-workflow.svg" width="100%" alt="Agentic Workflow Automation System — Python workflow automation. Open repository."></a></td>
+    <td width="50%"><a href="https://github.com/jaya-sri6/LLM-RAG-Based-Document-Processing-System"><img src="assets/project-rag-documents.svg" width="100%" alt="LLM RAG Document Processing System — Python document processing with language models. Open repository."></a></td>
+  </tr>
+</table>
 
 <sub>Additional selected work: Enterprise Knowledge Agent (Agentic RAG) · Multimodal Document Intelligence Agent · Cross-Platform Food Ordering Application · Reusable Mobile Component Library · High-Performance Restaurant Discovery App</sub>
 
